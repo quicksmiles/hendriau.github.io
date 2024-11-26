@@ -31,5 +31,4 @@ superuser: false
 user_groups:
 - Fellows
 ---
-
-
+Hi everyone, my name is Jack Staples, and I am a postdoctoral fellow in the Department of Biomedical Informatics at CU Anschutz. I previously earned a PhD in Pharmaceutical Sciences and a Bachelor's in Chemical Engineering. I enjoy applying statistical genomics methods towards characterizing the contribution of genetics, environment, and sociodemographic factors to human disease risk and medication response. Outside of research, I like to downhill ski and mountain bike.
